@@ -1,0 +1,27 @@
+[2023-04-18 20:22:15] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 12:46:05] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 12:49:21] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 12:54:59] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 12:57:43] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 13:05:33] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 21:40:14] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 21:54:48] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 22:10:34] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 22:20:32] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 22:33:59] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 22:46:18] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 22:54:35] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 23:02:58] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 23:03:15] [WARNING]: 警告: 长消息响应延迟为 6032ms, 大于 1000ms, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 
+[2023-04-18 23:08:14] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 23:10:06] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 23:15:10] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 23:15:26] [WARNING]: 警告: 长消息响应延迟为 5176ms, 大于 1000ms, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 
+[2023-04-18 23:21:17] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 23:22:49] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 23:26:50] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 23:34:44] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 23:56:25] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-18 23:56:41] [WARNING]: 警告: 媒体服务器延迟为 1244ms，大于 1000ms, 可能导致无法上传/下载媒体文件, 无法上传群共享, 无法发送消息等情况, 请检查本地网络状态. 
+[2023-04-18 23:59:22] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2023-04-18 23:59:46] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 

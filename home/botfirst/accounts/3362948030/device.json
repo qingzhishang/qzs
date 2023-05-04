@@ -1,0 +1,39 @@
+{
+    "product": "BRAVIA 4K GB",
+    "device": "BRAVIA_ATV2",
+    "board": "BRAVIA_ATV2",
+    "brand": "Sony",
+    "model": "BRAVIA 4K GB",
+    "wifi_ssid": "TP-LINK_SZYJ3D",
+    "android_id": "6969600",
+    "boot_id": "9cc4de1a-c007-eb4c-01a8-e5bd7c8ce5aa",
+    "proc_version": "Linux version 4.12.48-9T5jMDdu (android-build@c007eb4c01a8.source.android.com)",
+    "mac_address": "9C:C4:DE:1A:C0:07",
+    "ip_address": [
+        188,
+        145,
+        215,
+        44
+    ],
+    "imei": "466297056003822",
+    "incremental": "1223398926",
+    "protocol": 2,
+    "display": "6969600",
+    "finger_print": "Sony/BRAVIA 4K GB/BRAVIA_ATV2:10/6969600/1223398926:user/release-keys",
+    "baseband": "",
+    "sim": "T-Mobile",
+    "sim_info": "T-Mobile",
+    "os_type": "android",
+    "bootloader": "U-boot",
+    "wifi_bssid": "9C:C4:DE:1A:C0:07",
+    "apn": "wifi",
+    "version": {
+        "incremental": "1223398926",
+        "release": "10",
+        "codename": "REL",
+        "sdk": 29
+    },
+    "imsi_md5": "3762ade1fd53c54498040532d714e60c",
+    "vendor_name": "Sony",
+    "vendor_os_name": "android"
+}

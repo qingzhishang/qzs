@@ -1,0 +1,5 @@
+[2023-04-19 00:03:18] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-19 00:03:33] [WARNING]: 警告: 媒体服务器延迟为 1250ms，大于 1000ms, 可能导致无法上传/下载媒体文件, 无法上传群共享, 无法发送消息等情况, 请检查本地网络状态. 
+[2023-04-19 00:06:21] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-19 00:18:42] [WARNING]: 撤回 -767353805 失败: recall error: 1001 msg: system error (delete) 
+[2023-04-19 00:53:33] [WARNING]: 群消息发送失败: 账号可能被风控. 

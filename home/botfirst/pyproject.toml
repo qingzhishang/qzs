@@ -1,0 +1,14 @@
+[project]
+name = "botfirst"
+version = "0.1.0"
+description = "botfirst"
+readme = "README.md"
+requires-python = ">=3.8, <4.0"
+
+[tool.nonebot]
+adapters = [
+    { name = "OneBot V11", module_name = "nonebot.adapters.onebot.v11" }
+]
+plugins = ["nonebot_plugin_gocqhttp", "nonebot_plugin_petpet", "nonebot_plugin_60s", "nonebot_plugin_guild_patch", "nonebot_plugin_setu", "YetAnotherPicSearch", "nonebot_plugin_naturel_gpt", "GenshinUID"]
+plugin_dirs = ["src/plugins/nonebot-plugin-gpt3.5-turbo"]
+builtin_plugins = ["echo"]
